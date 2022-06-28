@@ -38,3 +38,8 @@ FAOSTAT does not track aquaculture.  WOAH does track aquatic species but current
 we have only terrestrial species population information.  American Samoa and Guam have been 
 added but they are not listed in any of the data source categories.  
 
+## References
+
+https://www.iso.org/iso-3166-country-codes.html, ISO 3166 Country Codes
+
+https://www.iso.org/obp/ui/#search, ISO 3166 Country Codes  Online Browsing Platform
