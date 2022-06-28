@@ -1,6 +1,6 @@
-#Explanations
+# Explanations
 
-##Original Compilation
+## Original Compilation
 
 A CSV file has been created (2022-06-27) that captures all the names used in known data sources
 and eliminates some problem areas with regards to FAOSTAT and China.  The file has 9 columns - 
@@ -29,7 +29,7 @@ has 2 entries and one has a fake ISO-3 code; and finally they have Kosovo as a c
 WOAH do not) with an ISO-2 code of XK and I have given it a fake ISO-3.  All the fake codes are 
 there because the official ISO list does not contain codes for these administrative units.
 
-##Additions
+## Additions
 
 American Samoa and Guam.  They are technically not countries but not everything in this list is 
 a country but they are there either because they have appeared on FAOSTAT, WOAH, or EUROSTAT or 
