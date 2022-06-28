@@ -29,14 +29,29 @@ has 2 entries and one has a fake ISO-3 code; and finally they have Kosovo as a c
 WOAH do not) with an ISO-2 code of XK and I have given it a fake ISO-3.  All the fake codes are 
 there because the official ISO list does not contain codes for these administrative units.
 
+## China Issues
+
+It is important that we determine what we count as "China" since many data sources have 
+different, sometimes hard to determine, definitions for the country that is China.
+
+### FAOSTAT
+FAOSTAT defines China as "China, mainland" + "China, Hong Kong SAR" + "China, Taiwan Province of" 
++ "China, Macao SAR:
+
+### WOAH
+WOAH has the following units: China (CHN) and Taiwan, Province of China" (TWN) and Hong Kong 
+(HKG). And in the latest data set, WOAH has data for 2005-2012 for CHN, 2005-2019 for HKG, and
+2005-2019 for TWN.
+
 ## Additions
 
-American Samoa and Guam.  They are technically not countries but not everything in this list is 
-a country but they are there either because they have appeared on FAOSTAT, WOAH, or EUROSTAT or 
-are in some GBADs work like TEV.  TEV has them but only for aquaculture and as far as I can see 
-FAOSTAT does not track aquaculture.  WOAH does track aquatic species but currently (2022-06-28)
-we have only terrestrial species population information.  American Samoa and Guam have been 
-added but they are not listed in any of the data source categories.  
+### American Samoa and Guam  
+They are technically not countries but not everything in this list is a country but they are 
+there either because they have appeared on FAOSTAT, WOAH, or EUROSTAT or are in some GBADs work 
+like TEV.  TEV has them but only for aquaculture and as far as I can see FAOSTAT does not track 
+aquaculture.  WOAH does track aquatic species but currently (2022-06-28) we have only terrestrial 
+species population information.  American Samoa and Guam have been added but they are not listed 
+in any of the data source categories.  
 
 ## References
 
