@@ -35,8 +35,7 @@ It is important that we determine what we count as "China" since many data sourc
 different, sometimes hard to determine, definitions for the country that is China.
 
 ### FAOSTAT
-FAOSTAT defines China as "China, mainland" + "China, Hong Kong SAR" + "China, Taiwan Province of" 
-+ "China, Macao SAR:
+FAOSTAT defines China as "China, mainland" + "China, Hong Kong SAR" + "China, Taiwan Province of" + "China, Macao SAR"
 
 ### WOAH
 WOAH has the following units: China (CHN) and Taiwan, Province of China" (TWN) and Hong Kong 
