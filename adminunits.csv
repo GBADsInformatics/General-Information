@@ -38,7 +38,8 @@ CF,CAF,Central African Republic,Central African Republic,Central African Republi
 ?1,CEU,Ceuta,Ceuta,,,WOAH,,
 TD,TCD,Chad,Chad,Chad,FAO,WOAH,,
 CL,CHL,Chile,Chile,Chile,FAO,WOAH,,
-CN,CHN,China,China,"China, mainland",FAO,WOAH,,UNFCCC
+CN,CHN,China,China,"China, mainland",FAO,,,
+CN,CHN,China,China,China,,WOAH,,UNFCCC
 CO,COL,Colombia,Colombia,Colombia,FAO,WOAH,,
 KM,COM,Comoros,Comoros,Comoros,FAO,WOAH,,
 CG,COG,Congo,Congo,Congo,FAO,WOAH,,
