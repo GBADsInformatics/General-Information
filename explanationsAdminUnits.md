@@ -26,8 +26,9 @@ which is the true ISO-2 code) so there are 2 entries for Greece and also I have 
 a fake ISO-3 code with prefix ?? and then an arbitrary number; they also have UK instead of GB 
 for the United Kingdom so therefore the United Kingdom of Great Britain and Northern Ireland 
 has 2 entries and one has a fake ISO-3 code; and finally they have Kosovo as a country (FAO and 
-WOAH do not) with an ISO-2 code of XK and I have given it a fake ISO-3.  All the fake codes are 
-there because the official ISO list does not contain codes for these administrative units.
+WOAH do not) with an ISO-2 code of XK and an ISO-3 of XKX that was found on the World Bank data
+site..  All the fake codes are there because the official ISO list does not contain codes for 
+these administrative units.
 
 ## China Issues
 
